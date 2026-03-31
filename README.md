@@ -71,8 +71,6 @@ Passionate about building innovative solutions, gaining practical experience, an
 
 ---
 
-## 🌟 Let's Connect!
-I'm always open to collaborating on exciting projects, hackathons, or internships. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ratiloe-mbonani) or check out my work on [GitHub](https://github.com/RatiloeLebogangMbonani).
 
 ## 🎥Mock Interview Video
 

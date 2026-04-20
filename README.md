@@ -71,9 +71,24 @@ Passionate about building innovative solutions, gaining practical experience, an
 
 ---
 
-
 ## 🎥Mock Interview Video
 
 <video width="600" controls>
   <source src="mock_interview.mp4" type="video/mp4">
 </video>
+
+## 📄 Reflection on Coding My CV in Markdown
+
+My objective was to learn Markdown syntax and apply it to build a professional CV that could be easily updated and shared online. I learned how to use Markdown features such as headings, bullet points,icons, comments and links to organize my CV clearly.It was easy to learn how to code in Markdown. I successfully created a clean and professional CV that is easy to update and share. This experience helped me understand how GitHub and Markdown work together.
+
+
+## 🎥 Reflection on Mock Interview Experience
+
+I recorded a mock interview to simulate a real-world job interview environment. I needed to present myself professionally, communicate my skills clearly, and respond confidently to technical and behavioral questions. I prepared by selecting one question from each category; behavioral, situational, technical, and general and challenged myself to answer each using the STAR method. I recorded myself six times until I achieved a shot where I felt confident. 
+Through this process, I became more aware of my communication style, body language, and areas where I need improvement. This experience helped me prepare more effectively for real interviews.
+
+
+## 🌐 Reflection on Using GitHub Pages
+
+I wanted to showcase my CV online in a professional and accessible way. My task was to deploy my CV using GitHub Pages and ensure it displayed correctly as a web page. The challenge I faced while trying to set it up was embedding my mock interview video directly below my CV without redirecting to another site using a link. Despite this challenge, I was able to successfully deploy my CV online. This experience improved my understanding of deployment and presenting content on the web.
+

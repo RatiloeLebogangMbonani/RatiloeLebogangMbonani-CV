@@ -16,10 +16,10 @@ Passionate about building innovative solutions, gaining practical experience, an
 ## ⚡ Technical Skills
 
 **Programming Languages:**  
-- Java  
-- JavaScript  
+- JavaScript
+- CSS  
 - Python  
-- HTML, CSS  
+- HTML  
 - MySQL  
 - PHP  
 
@@ -85,7 +85,7 @@ My objective was to learn Markdown syntax and apply it to write a professional C
 
 ## 🎥 Reflection on Mock Interview Experience
 
-I recorded a mock interview to simulate a real-world job interview environment. I needed to present myself professionally, communicate my skills clearly, and confidently respond to a mix of technical, behavioural, situational, and general questions. I prepared by selecting one question from each category and answering each question using the STAR method. I recorded myself multiple times, reviewed each attempt, and improved my responses and body language with each recording until I achieved a recording where I felt confident. Through this process, I became more aware of my communication style, body language, and confidence levels. This experience helped me prepare more effectively for real interviews.
+I recorded a mock interview to simulate a real-world job interview environment. I needed to present myself professionally, communicate my skills clearly, and confidently respond to a mix of technical, behavioural, situational, and general questions. I prepared by selecting one question from each category and answering each question using the STAR method. I recorded myself six times before getting the right shot, and with each attempt, I improved my responses and body language. Through this process, I became more aware of my communication style, body language, and confidence levels. This experience helped me prepare more effectively for real interviews.
 
 ---
 
